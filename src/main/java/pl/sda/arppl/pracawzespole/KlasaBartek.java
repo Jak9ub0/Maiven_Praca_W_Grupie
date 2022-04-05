@@ -23,6 +23,8 @@ public class KlasaBartek {
 
         System.out.println("Hej " + imie + " " + nazwisko + "! Czy wiesz, że suma podanych liczb to " + suma + ", a różnica to " + roznica );
 
+        // Zmiany, ktore chcialbym zmergeowac
+        // kolejne zmiany
     }
 }
 
